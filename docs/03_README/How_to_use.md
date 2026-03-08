@@ -24,6 +24,7 @@ These guide the agent on how to produce / update the outputs:
 - Requirements_Checklist.md
 - Architecture_Checklist.md
 - /rules/A_global.md … /rules/J_delivery_ops_lite.md
+- **/extensions/**: Conditional rules dynamically loaded for Production/MVP scale (e.g. `ext_coding_conventions.md`, `ext_testing_strategy.md`, `ext_security_audit.md`).
 
 ### HISTORY files
 Living changelog — only active/applied changes, reverted ones are removed:
