@@ -6,10 +6,11 @@ Purpose
 Output format (must follow)
 - Interpretation: what is being asked (max 5 high-impact bullets)
 - Non-goals: what is NOT being done
+- Recommendations: 2–3 approaches with explicit rationale (why this approach, trade-offs)
 - Open questions: max 3 (only blockers)
 - Assumptions (only if proceeding now)
   - include quick validation method per assumption
-- Next action: 1–3 steps
+- Next action: 1–3 steps (only after user selects an approach)
 
 Rules
 - Do not invent requirements. If unclear, ask.

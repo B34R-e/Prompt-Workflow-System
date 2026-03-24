@@ -1,7 +1,7 @@
 # 04_Change_Review
 
 Goal
-- Decide when to update: 00_Project_Scope.md, 01_Problem_Definition.md, 02_Requirements.md, 03_Architecture.md.
+- Decide when to update: Project_Scope.md, Problem_Definition.md, Requirements.md, Architecture.md.
 - Keep updates lightweight but disciplined.
 
 When to run
@@ -20,16 +20,16 @@ Immediate update (always)
 - A blocker in Requirements_Checklist or Architecture_Checklist becomes FAIL.
 
 What to update (mapping)
-- Scope/business goal change → 00 + 01 + 02 (and maybe 03)
-- Requirements change (functional) → 02 (and 03 if architecture affected)
-- NFR change → 02 + 03
-- New integration → 02 + 03
-- Data model/ownership change → 03 (and 02 if requirements wording changes)
-- UI strategy change → 03 (and 02 if user tasks/output change)
+- Scope/business goal change → 01_Project_Scope + 02_Problem_Definition + 03_Requirements (and maybe 04_Architecture)
+- Requirements change (functional) → 03_Requirements (and 04_Architecture if architecture affected)
+- NFR change → 03_Requirements + 04_Architecture
+- New integration → 03_Requirements + 04_Architecture
+- Data model/ownership change → 04_Architecture (and 03_Requirements if requirements wording changes)
+- UI strategy change → 04_Architecture (and 03_Requirements if user tasks/output change)
 
 Output format (each review entry, short)
 - Date
 - What changed (1–3 lines)
 - Triggers hit (list)
-- Docs to update (00/01/02/03)
+- Docs to update (01/02/03/04)
 - Update now vs later (with reason)

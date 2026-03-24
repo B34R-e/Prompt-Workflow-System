@@ -1,6 +1,8 @@
 # Project Setup & Environment Requirements
 
-This document outlines the standard procedure for setting up the local development environment for the project.
+> **For the complete A-Z project reproduction guide** (infrastructure → code → deploy → verify), see `Runbook.md` in this folder.
+
+This document outlines the standard procedure for setting up the **local development environment** for the project.
 
 ## 1. Prerequisites
 List all the required software and specific versions needed to run the project.

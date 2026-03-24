@@ -5,7 +5,7 @@ Purpose
 - Not a comprehensive architecture guide. Use it to assess readiness for construction.
 
 How to use
-- Read 00_Project_Scope + 01_Problem_Definition + 02_Requirements first.
+- Read Project_Scope.md + Problem_Definition.md + Requirements.md first.
 - For each item mark: PASS / PARTIAL / FAIL / N/A.
 - If any “Blocker” item is FAIL → do not proceed with serious construction until addressed.
 
